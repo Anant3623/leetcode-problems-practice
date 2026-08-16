@@ -9,7 +9,7 @@ Auto-pushed via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). Langu
 ### Two Pointers
 [977. Squares of a Sorted Array](./0977-squares-of-a-sorted-array/) — Two pointers, O(n)
 
-### prefix sum
+### Prefix Sum
 
 ### Sliding Window
 _none yet_
