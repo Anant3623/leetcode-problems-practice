@@ -10,6 +10,7 @@ Auto-pushed via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). Langu
 [977. Squares of a Sorted Array](./0977-squares-of-a-sorted-array/) — Two pointers, O(n)
 
 ### Prefix Sum
+[724. Find Pivot Index](./0724-find-pivot-index/) — prefix sum, O(n)
 
 ### Sliding Window
 _none yet_
