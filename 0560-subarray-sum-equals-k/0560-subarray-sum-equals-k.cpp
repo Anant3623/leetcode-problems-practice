@@ -13,7 +13,6 @@ public:
         
         for(int i=0;i<n;i++){
           sum+=v[i];
-         
           result+=mp[sum-k];
           mp[sum]++;
           
