@@ -14,8 +14,7 @@ public:
         for(int i=0;i<n;i++){
           sum+=v[i];
           diff=sum-k;
-          f=mp[diff];
-          result+=f;
+          result+=mp[diff];
           mp[sum]++;
           
         }
